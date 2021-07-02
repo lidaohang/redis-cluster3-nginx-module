@@ -1,0 +1,12 @@
+
+2017/04/21 18:51:09 [notice] 29218#0: signal 2 (SIGINT) received, exiting
+2017/04/21 18:51:09 [info] 29218#0: epoll_wait() failed (4: Interrupted system call)
+2017/04/21 18:51:09 [debug] 29218#0: timer delta: 224279
+2017/04/21 18:51:09 [debug] 29218#0: flush files
+2017/04/21 18:51:09 [debug] 29218#0: [redis_proxy] exit process
+2017/04/21 18:51:09 [notice] 29218#0: exit
+2017/04/21 18:51:09 [debug] 29218#0: epoll del event: fd:5 op:2 ev:00000000
+2017/04/21 18:51:09 [debug] 29218#0: close listening 0.0.0.0:8015 #5 
+2017/04/21 18:51:09 [debug] 29218#0: epoll del event: fd:6 op:2 ev:00000000
+2017/04/21 18:51:09 [debug] 29218#0: close listening 0.0.0.0:8016 #6 
+2017/04/21 18:51:09 [debug] 29218#0: free: 000000000154A120, unused: 216
